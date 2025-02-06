@@ -1,5 +1,6 @@
 streamlit
 gensim
+nltk
 PyPDF2
 pandas
 numpy
