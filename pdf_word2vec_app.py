@@ -1,4 +1,3 @@
-
 import streamlit as st
 import PyPDF2
 from gensim.utils import simple_preprocess
@@ -81,5 +80,7 @@ if uploaded_file is not None:
 
 else:
     st.warning("Please upload a PDF to begin.")
+
+    
 
     
